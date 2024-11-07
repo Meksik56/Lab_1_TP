@@ -1,0 +1,7 @@
+[user]
+	name = Egor
+	email = egormak730@gmail.com
+[core]
+	editor = notepad.exe
+	autocrlf = true
+	safecrlf = warn
